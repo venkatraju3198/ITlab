@@ -1,0 +1,47 @@
+body{
+background-color:linen;
+font-family:times new roman;
+background-image:url("kgf.jpg");
+background-repeat:no-repeat;
+background-position:right top;
+background-size:500px 250px;
+}
+h1{
+background-color:lightblue;
+margin:50px 25px 50px 25px;
+width:50%;
+}
+
+.first{
+color:red;
+}
+
+.second{
+padding:50px;
+}
+
+.colortext{
+color:green;
+border-width:10px;
+border-style:solid;
+border-color:green;
+}
+
+#para1{
+color:blue;
+border-width:4px;
+border-style:dotted;
+border-color:red;
+}
+
+.div1
+{
+width:200px;
+border-width:25px;
+border-style:solid;
+border-color:navy;
+}
+
+div.first{
+width:200;
+}
